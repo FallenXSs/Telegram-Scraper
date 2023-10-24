@@ -46,7 +46,7 @@ def clr():
 
 clr()
 banner()
-print(f'  {r}Kusha Mühendislik\n')
+print(f'  {r}Fivist by\n')
 f = open('vars.txt', 'rb')
 accs = []
 while True:
