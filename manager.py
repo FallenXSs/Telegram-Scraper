@@ -18,9 +18,9 @@ colors = [lg, r, w, cy, ye]
 
 def banner():
     f = pyfiglet.Figlet(font='slant')
-    banner = f.renderText('Telegram')
+    banner = f.renderText('Telegram Adder')
     print(f'{random.choice(colors)}{banner}{n}')
-    print(r+' Kusha Mühendislik'+n+'\n')
+    print(r+' Fivist by'+n+'\n')
 
 
 def clr():
